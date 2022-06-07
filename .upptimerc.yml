@@ -11,8 +11,8 @@ sites:
     url: https://www.ibm.com/tw-zh
   - name: Oracle
     url: https://www.oracle.com/tw/index.html
-  - name: Dell
-    url: https://www.dell.com/zh-tw
+  - name: Dell(fake)
+    url: https://www.dell.dell.dell.com/zh-tw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
